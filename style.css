@@ -1,0 +1,17 @@
+.m-15 {
+  background-color: aquamarine;
+}
+div {
+  text-align: center;
+}
+h1 {
+  color: black;
+  text-align: center;
+  font: size 60px;
+}
+.arsyad {
+  width: 90px;
+  height: 90px;
+  clip-path: circle();
+  position-anchor: calc(center);
+}
