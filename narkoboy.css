@@ -1,0 +1,22 @@
+.bg {
+  background-color: blueviolet;
+}
+
+.tema {
+  color: blue;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  size: 80px;
+}
+.image {
+  clip-path: circle();
+  width: 90px;
+}
+div {
+  text-align: center;
+}
+.text {
+  text-align: center;
+}
+.link {
+}
